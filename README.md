@@ -1,5 +1,9 @@
 # Sample EventBus Pub/Sub Project
 
+This backend application is a sample application that uses the Pub/Sub mechanism to realize synchronous and asynchronous processing in the application when a REST API request is received.
+
+You can find the article on the web for this application here. (Japanese Only)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
